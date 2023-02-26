@@ -61,5 +61,5 @@ if(userChoice === computerChoice ){
 
  
 
-alert("You have won " + youWin + "You have Tied " + youTied + "You have lost " + youLost)
+alert("You have won " + youWin + "times" + "You have Tied " + youTied  + "time" + "You have lost " + youLost + "times")
  
